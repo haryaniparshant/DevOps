@@ -7,3 +7,10 @@ Don't forget to join the channel for more videos like this.
 [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
 ![preview img](/preview.png)
+<<<<<<< HEAD
+=======
+# DevOps_Assignment
+# DevOps_Assignment
+# DevOps_Assignment
+# DevOps_Assignment
+>>>>>>> 2d5f3a538edde1abfe8c0359e3978763713377e0
